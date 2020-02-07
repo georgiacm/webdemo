@@ -1,0 +1,62 @@
+hi {
+	color: green;
+	
+}
+h2 {
+	margin:0px;
+	font-family:Times New Roman;
+	color:white;
+}
+.Nav {
+	background-color: blue;
+	height:100px;
+}
+.Hero {
+	background-color: orange;
+	height:300px;
+}
+.About {
+	background-color: blue;
+	float:left;
+	height:300px;
+	width:70%;
+}
+.Social {
+	background-color: pink;
+	float:right;
+	height:300px;
+	width:30%;
+	
+}
+.Case {
+	background-color: green;
+	height:300px;
+	clear:both;
+	
+	
+}
+.Who {
+	background-color: purple;
+	float:right;
+	height:300px;
+	width:33.33%;
+}
+.What {
+	background-color: red;
+	float:right;
+	height:300px;
+	width:33.33%
+	
+}
+.Join {
+	background-color: lime;
+	float:right;
+	height:300px;
+	width:33.33%
+}
+.Case {
+	background-color: olive;
+	height:300px;
+	clear:both;
+	
+}
